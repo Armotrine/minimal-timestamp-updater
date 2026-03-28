@@ -1,0 +1,17 @@
+{
+  "name": "minimal-timestamp-updater",
+  "version": "1.0.0",
+  "description": "Obsidian plugin to update a frontmatter date property to the current date.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "esbuild": "0.21.5",
+    "obsidian": "latest",
+    "tslib": "2.6.3",
+    "typescript": "5.5.3"
+  }
+}

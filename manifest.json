@@ -1,0 +1,10 @@
+{
+  "id": "minimal-timestamp-updater",
+  "name": "Minimal Timestamp Updater",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "One-click update a frontmatter date property to the current date.",
+  "author": "m",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
